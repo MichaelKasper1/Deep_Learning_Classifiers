@@ -1,4 +1,7 @@
 # Deep_Learning_Classifiers
+
+The data for this project is available with this link: https://drive.google.com/file/d/1YoTWTdShWdI55SmBp4Ie2IkaI_E3Gmp0/view
+
 This repository contains 2 jupyter notebooks that classify digits.
 
 One of the files classifies street digist with an artificial neural network.
